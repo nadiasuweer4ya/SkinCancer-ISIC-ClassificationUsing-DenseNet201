@@ -4,6 +4,8 @@
 
 
 # Medium Blog 🥗
+Skin cancer is a disease that happens when the cells in your skin start to grow in a bad way. Our skin has lots of cells, and they usually grow and divide in a very organized manner to keep our skin healthy. But sometimes, because of things like too much sun exposure or genetics, some of these cells can start growing out of control.
+
 Nadia's Blog: [Medium Blog](https://medium.com/@suweeraya/skin-cancer-classification-using-densenet-201-13ec8e8e9b6e)
 
 # Deployment 🌺
